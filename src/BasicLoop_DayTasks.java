@@ -9,7 +9,7 @@ public class BasicLoop_DayTasks {
         }
         System.out.println(sum);
 */
-     //*******************************Q-2-Digits reversed*********************************************************
+     //*******************************Q-2-Digits reversed********************************************************
        /* Scanner input=new Scanner(System.in);
         System.out.println("Enter the Number: ");
         int n=input.nextInt();
