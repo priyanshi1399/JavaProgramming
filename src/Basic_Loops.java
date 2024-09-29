@@ -298,6 +298,23 @@ We are getting our pattern like this
 
 
         // Butterfly Pattern
+
+        /*
+        6
+*          *
+**        **
+***      ***
+****    ****
+*****  *****
+************
+************
+*****  *****
+****    ****
+***      ***
+**        **
+*          *
+
+         */
  /*Scanner input=new Scanner(System.in);
  int n=input.nextInt();
  for(int i=1;i<=n;i++){
