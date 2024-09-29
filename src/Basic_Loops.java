@@ -10,6 +10,43 @@ import java.util.*;
 public class Basic_Loops
 {
     public static void main(String[] args) {
+
+
+                //for loop
+                //int i=0-->initialization of your loop
+                //i<3-->condition for loop to execute
+                //i++-->how i will be incremented after every iteration
+		/*i=0
+		i=1
+		*/
+
+		/*
+		output
+		i=0;
+		i=1;
+		i=2
+		*/
+	/*	for(int i=1;i<=10;i++){
+		    System.out.println("i=" +i);
+		}
+		/*
+		i=2
+		j=0;j<=2
+		j=0;j<=3
+		*/
+		/*
+		01
+		012
+		0123
+		*/
+
+             /*   for(int i=1;i<=3;i++){
+                    for(int j=0;j<=i;j++){
+                        System.out.println(j);
+                    }
+                    System.out.println();
+                }*/
+
         //Take n from and based on n value and print the increasing pyramid pattern
 
 		/*
