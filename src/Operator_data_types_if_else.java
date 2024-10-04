@@ -34,14 +34,14 @@ public class Operator_data_types_if_else {
         } */
 
             //*****************************Que3 -Print Tax using ternary Operator *********************************************************
-       /* Scanner input=new Scanner(System.in);
-        System.out.println("Enter the tax");
-        float tax=input.nextFloat();
-        Float c=(tax>50000)?((tax*10)/100):((tax*5)/100);
-        System.out.println(c);
+        Scanner input=new Scanner(System.in);
+        System.out.println("Enter the bill");
+        double bill=input.nextFloat();
+        double tax=(bill>=50000)?((bill*10)/100):((bill*5)/100);
+        System.out.println(tax);
 
         //*****************************************Qus: 4Leap Year**************************************************
-        System.out.println("Leap year");
+      /*  System.out.println("Leap year");
         Scanner input=new Scanner(System.in);
         int year=input.nextInt();
         boolean isLeap=false;
@@ -79,7 +79,7 @@ public class Operator_data_types_if_else {
         System.out.println("Maximum element of three number :"+c); */
 
             //***********************************Q-6-Mid Element in Three***************************************************
-            Scanner input = new Scanner(System.in);
+           /* Scanner input = new Scanner(System.in);
             System.out.println("Enter three Elements");
             System.out.println("Enter first Element: ");
             int num1=input.nextInt();
@@ -104,7 +104,7 @@ public class Operator_data_types_if_else {
                 }
 
             }
-
+*/
             //*******************Second Method of Ques6 Middle element*********************************************************
 
         /*Scanner input=new Scanner(System.in);
