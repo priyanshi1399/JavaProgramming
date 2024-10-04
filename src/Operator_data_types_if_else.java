@@ -36,7 +36,7 @@ public class Operator_data_types_if_else {
             //*****************************Que3 -Print Tax using ternary Operator *********************************************************
         Scanner input=new Scanner(System.in);
         System.out.println("Enter the bill");
-        double bill=input.nextFloat();
+        double bill=input.nextDouble();
         double tax=(bill>=50000)?((bill*10)/100):((bill*5)/100);
         System.out.println(tax);
 
