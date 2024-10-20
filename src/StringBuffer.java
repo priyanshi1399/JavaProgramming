@@ -11,9 +11,9 @@ class StringBuffer1 {
         //diff is they are not synchronized
         //in builder-overhead
 
-       StringBuffer sb=new StringBuffer();
-       sb.append("Hello");
-       sb.append("World");
+        StringBuffer sb = new StringBuffer();
+        sb.append("Hello");
+        sb.append("World");
         System.out.println(sb.toString());
         StringBuilder sdb=new StringBuilder("Hi");
         sdb.append("hello");
