@@ -74,5 +74,6 @@ public class BinarySearch {
         }
         return -1;*/
     }
-
+  //  T(C)-1..n/2..n/4..n/8...n/k. k+1 iteration.
+    //  n/2^k=1==>n=2^k =>log2n==log2 2^k =>apply property log a^b  base a=b=>log n base 2 =k.
 }
